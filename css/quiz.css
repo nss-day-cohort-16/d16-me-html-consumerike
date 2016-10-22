@@ -88,6 +88,32 @@ footer {
 
 
 
+/***************************
+BLOG PAGES/PLACEHOLDER
+****************************/
+
+#supersonics {
+	background-image: url("images/supersonics.jpg");
+	background-size: cover;
+}
+
+
+/***************************
+PROJECT PAGES/PLACEHOLDER
+****************************/
+
+
+#seahawks {
+	background-image: url("images/seahawks.jpg");
+	background-size: cover;
+
+}
+
+
+
+
+
+
 
 
 
