@@ -1,0 +1,100 @@
+/***************************
+GENERAL STYLING
+****************************/
+
+
+
+body {
+	margin: 0;
+	font-size: 1em;
+	font-weight: normal;
+	font-family: sans-serif;
+	color: black;
+	background-color: lightgray;
+}
+
+
+/***************************
+NAVIGATION
+****************************/
+
+
+#nav_bar {
+	width: 100%;
+
+}
+
+#nav_bar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 100%;
+
+}
+
+#nav_bar li {
+	float: right;
+	width: 14%;
+}
+
+
+#nav_bar li a {
+	display: block;
+	color: #808080;
+	padding: 20px 20px;
+	text-transform: uppercase;
+	text-decoration: none;	
+}
+
+#nav_bar a:hover{
+    background-color: limegreen ;
+}
+
+a:visited {
+    color: green;
+}
+
+
+/***************************
+MAIN
+****************************/
+main {
+	margin-left: 3%;
+}
+
+#profile_pic {
+	border-radius: 30%;
+	border: 3px solid black;
+}
+
+#resources a {
+	display: block;
+	margin-bottom: 1%;
+}
+/***************************
+FOOTER
+****************************/
+
+footer {
+	font-size: 1em;
+	text-align: center;
+	padding-top: 50px;
+	color: #808080;
+	padding: 20px 10px;
+	background-color: lightgray;
+	clear: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
